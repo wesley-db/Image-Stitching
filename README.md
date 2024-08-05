@@ -14,27 +14,51 @@ If you want to use your pictures, the following must be followed:
 <br>**Comparison Gallery**<br>
 <p>
 <em>Source Images</em>
-<img  src="https://github.com/wesley-db/Image-Stitching/blob/main/mountainOrg.png">
+<img  src="https://github.com/wesley-db/Image-Stitching/blob/main/Images/mountainOrg.png">
 </p>
 <p>
 <em>Original Code Result</em><br>
-<img width=700 src="https://github.com/wesley-db/Image-Stitching/blob/main/mountain.png">
+<img width=700 src="https://github.com/wesley-db/Image-Stitching/blob/main/Images/mountain.png">
 </p>
 <p>
 <em>Improved Code Result</em><br>
-<img width=700 src="https://github.com/wesley-db/Image-Stitching/blob/main/mountain2.png">
+<img width=700 src="https://github.com/wesley-db/Image-Stitching/blob/main/Images/mountain2.png">
 </p>
 <p>
 <em>Source Images</em>
-<img height=500 src="https://github.com/wesley-db/Image-Stitching/blob/main/roomOrg.png">
+<img height=500 src="https://github.com/wesley-db/Image-Stitching/blob/main/Images/roomOrg.png">
 </p>
 <p>
 <em>Original Code Result</em><br>
-<img width=700 src="https://github.com/wesley-db/Image-Stitching/blob/main/room.png">
+<img width=700 src="https://github.com/wesley-db/Image-Stitching/blob/main/Images/room.png">
 </p>
 <p>
 <em>Improved Code Result</em><br>
-<img  src="https://github.com/wesley-db/Image-Stitching/blob/main/room2.png">
+<img  src="https://github.com/wesley-db/Image-Stitching/blob/main/Images/room2.png">
 </p>
 
 **More Results**<br>
+<p>
+<em>Source Images</em>
+<img  src="https://github.com/wesley-db/Image-Stitching/blob/main/Images/AptInOrg.png">
+</p>
+<p>
+<em>Result</em><br>
+<img src="https://github.com/wesley-db/Image-Stitching/blob/main/Images/AptIn.jpg">
+</p>
+<p>
+<em>Source Images</em><br>
+<img src="https://github.com/wesley-db/Image-Stitching/blob/main/Images/UmdViewOrg.png">
+</p>
+<p>
+<em>Result</em>
+<img src="https://github.com/wesley-db/Image-Stitching/blob/main/Images/UmdView.jpg">
+</p>
+<p>
+<em>Source Images</em><br>
+<img src="https://github.com/wesley-db/Image-Stitching/blob/main/Images/IribeViewOrg.png">
+</p>
+<p>
+<em>Result</em><br>
+<img  src="https://github.com/wesley-db/Image-Stitching/blob/main/Images/IribeView.jpg">
+</p>

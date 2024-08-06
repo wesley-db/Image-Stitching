@@ -62,3 +62,10 @@ If you want to use your pictures, the following must be followed:
 <em>Result</em><br>
 <img  src="https://github.com/wesley-db/Image-Stitching/blob/main/Images/IribeView.jpg">
 </p>
+<em>Source Images</em><br>
+<img src="https://github.com/wesley-db/Image-Stitching/blob/main/Images/HotelOrg.png">
+</p>
+<p>
+<em>Result</em><br>
+<img  src="https://github.com/wesley-db/Image-Stitching/blob/main/Images/Hotel.jpg">
+</p>
